@@ -1,4 +1,4 @@
-# Chronos Stratege
+# Chronos
 
 LLM 기반 캘린더 어시스턴트
 
